@@ -1,0 +1,1063 @@
+Microsoft Windows [Version 10.0.26200.9711]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\sonia>CD
+C:\Users\sonia
+
+C:\Users\sonia>DIR
+ Volume in drive C is OS
+ Volume Serial Number is 4ADB-4EAE
+
+ Directory of C:\Users\sonia
+
+29/10/2026  09:59    <DIR>          .
+17/09/2026  13:04    <DIR>          ..
+07/09/2026  15:18    <DIR>          .anaconda
+29/10/2026  10:11    <DIR>          .conda
+07/09/2026  15:45    <DIR>          .continuum
+29/10/2026  09:58    <DIR>          .ipynb_checkpoints
+21/09/2026  14:45    <DIR>          .ipython
+25/09/2026  17:05    <DIR>          .jupyter
+16/09/2026  14:57                12 .python_history
+25/09/2026  17:05    <DIR>          .virtual_documents
+07/09/2026  15:49    <DIR>          anaconda3
+21/09/2026  14:41    <DIR>          anaconda_projects
+12/09/2026  21:06    <DIR>          ansel
+05/07/2026  22:26    <DIR>          Contacts
+12/10/2026  19:00                 0 Coursera.txt
+13/07/2026  07:53    <DIR>          CrossDevice
+05/07/2026  22:35    <DIR>          Documents
+29/10/2026  10:04    <DIR>          Downloads
+05/07/2026  22:26    <DIR>          Favorites
+05/07/2026  22:26    <DIR>          Links
+05/07/2026  22:26    <DIR>          Music
+29/10/2026  08:08    <DIR>          OneDrive
+29/10/2026  09:59             1.822 Primer script.ipynb
+05/07/2026  22:26    <DIR>          Saved Games
+05/07/2026  22:43    <DIR>          Searches
+12/10/2026  19:01                 0 untitled.txt
+24/09/2026  17:54                72 Videojuego
+25/09/2026  17:18             2.670 Videojuego.ejecucion
+26/09/2026  18:18    <DIR>          Videos
+               6 File(s)          4.576 bytes
+              23 Dir(s)  419.559.849.984 bytes free
+
+C:\Users\sonia>TREE CARPETA
+Folder PATH listing for volume OS
+Volume serial number is 4ADB-4EAE
+C:\USERS\SONIA\CARPETA
+Invalid path - \USERS\SONIA\CARPETA
+No subfolders exist
+
+
+C:\Users\sonia>TREE CARPETA DOWNLOADS
+Too many parameters - DOWNLOADS
+
+C:\Users\sonia>TREE CARPETA ONEDRIVE
+Too many parameters - ONEDRIVE
+
+C:\Users\sonia>HELP
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\sonia>ROBOCOPY
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : jueves, 29 de octubre de 2026 10:12:41
+       Simple Usage :: ROBOCOPY source destination /MIR
+
+             source :: Source Directory (drive:\path or \\server\share\path).
+        destination :: Destination Dir  (drive:\path or \\server\share\path).
+               /MIR :: Mirror a complete directory tree.
+
+    For more usage information run ROBOCOPY /?
+
+
+****  /MIR can DELETE files as well as copy them !
+
+C:\Users\sonia>SYSTEMINFO
+
+Host Name:                     SONIACOMPUTER
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              soniacamacho300@gmail.com
+Registered Organization:       N/A
+Product ID:                    00342-21474-77002-AAOEM
+Original Install Date:         06/07/2026, 2:14:59
+System Boot Time:              29/10/2026, 8:07:47
+System Manufacturer:           ASUSTeK COMPUTER INC.
+System Model:                  ASUS TUF Gaming A14 FA401UM_FA401UM
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 117 Stepping 2 AuthenticAMD ~2499 Mhz
+BIOS Version:                  American Megatrends International, LLC. FA401UM.311, 03/06/2026
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-gb;English (United Kingdom)
+Input Locale:                  es;Spanish (Traditional Sort)
+Time Zone:                     (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Total Physical Memory:         32.046 MB
+Available Physical Memory:     16.423 MB
+Virtual Memory: Max Size:      34.862 MB
+Virtual Memory: Available:     16.312 MB
+Virtual Memory: In Use:        18.550 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\SONIACOMPUTER
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5127690
+                               [02]: KB5050575
+                               [03]: KB5054156
+                               [04]: KB5095189
+                               [05]: KB5127648
+                               [06]: KB5127647
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Realtek 8852CE WiFi 6E PCI-E NIC
+                                     Connection Name: WiFi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.14.0.2
+                                     IP address(es)
+                                     [01]: 10.14.42.73
+                                     [02]: fe80::6115:44cb:8c9d:2926
+                               [02]: TAP-Windows Adapter V9
+                                     Connection Name: McAfee VPN
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                                     SMM Firmware Measurement
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                                     SMM Firmware Measurement
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Enforced
+                               Security Features Enabled:
+                               SMM Isolation Level: 30
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+C:\Users\sonia>IPCONFIG
+
+Windows IP Configuration
+
+
+Unknown adapter McAfee VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::6115:44cb:8c9d:2926%6
+   IPv4 Address. . . . . . . . . . . : 10.14.42.73
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 10.14.0.2
+
+C:\Users\sonia>TRACERT DIRECCIONHOST
+Unable to resolve target system name DIRECCIONHOST.
+
+C:\Users\sonia>VER
+
+Microsoft Windows [Version 10.0.26200.9711]
+
+C:\Users\sonia>TIME
+The current time is: 10:14:25,35
+Enter the new time: DRIVERQUERY
+The system cannot accept the time entered.
+Enter the new time: NA
+The system cannot accept the time entered.
+Enter the new time: 10:16
+A required privilege is not held by the client.
+
+C:\Users\sonia>DRIVERQUERY
+
+Module Name  Display Name           Driver Type   Link Date
+============ ====================== ============= ======================
+1394ohci     1394 OHCI Compliant Ho Kernel
+3ware        3ware                  Kernel        19/05/2015 0:28:03
+ACPI         Microsoft ACPI Driver  Kernel
+AcpiAudioCom ACPI Audio Compositor  Kernel
+AcpiDev      ACPI Devices driver    Kernel
+acpiex       Microsoft ACPIEx Drive Kernel
+acpipagr     ACPI Processor Aggrega Kernel
+AcpiPmi      ACPI Power Meter Drive Kernel
+acpitime     ACPI Wake Alarm Driver Kernel
+Acx01000     Acx01000               Kernel
+ADP80XX      ADP80XX                Kernel        09/04/2015 22:49:48
+AFD          Ancillary Function Dri Kernel
+afunix       afunix                 Kernel
+ahcache      Application Compatibil Kernel
+amdacpbus    Audio Coprocessr Drive Kernel        14/12/2025 0:49:43
+amdfendr     AMD Crash Defender Dri Kernel        21/11/2025 21:41:22
+amdfendrmgr  AMD Crash Defender Man Kernel        21/11/2025 21:41:21
+amdgpio2     AMD GPIO Client Driver Kernel        20/08/2024 8:25:33
+amdi2c       AMD I2C Controller Ser Kernel        20/08/2024 14:33:09
+AmdK8        AMD K8 Processor Drive Kernel
+AmdMicroPEP  AMD Micro PEP Device   Kernel        29/07/2024 19:45:45
+amdpmf       AMD PMF Kernel Driver  Kernel        20/02/2025 14:45:01
+AmdPpkg      AMD Provisioning Packa Kernel        11/03/2025 7:29:20
+AmdPPM       AMD Processor Driver   Kernel
+amdpsp       AMD PSP Service        Kernel        11/03/2025 21:57:19
+amdsata      amdsata                Kernel        14/05/2015 14:14:52
+amdsbs       amdsbs                 Kernel        11/12/2012 22:21:44
+amduw23g-197 amduw23g-197030-d7add7 Kernel        15/12/2025 6:42:25
+amdwps       AMD Workload Profiling Kernel
+amdxata      amdxata                Kernel        01/05/2015 2:55:35
+amd_dpfc     AMD_DPFC Service       Kernel        19/08/2024 6:14:16
+AppID        AppID Driver           Kernel
+AppleSSD     Apple Solid State Driv Kernel        11/11/2019 22:24:17
+applockerflt Smartlocker Filter Dri Kernel
+arcsas       Adaptec SAS/SATA-II RA Kernel        09/04/2015 21:12:07
+AsusPTPDrv   ASUS Precision Touch S Kernel        14/11/2025 7:40:20
+AsusSAIO     AsusSAIO               Kernel        05/02/2025 4:32:25
+AsyncMac     RAS Asynchronous Media Kernel
+atapi        IDE Channel            Kernel
+AtiHDAudioSe AMD Function Driver fo Kernel        03/09/2025 3:38:19
+ATKWMIACPIIO ATKWMIACPI Driver      Kernel        12/02/2026 8:55:23
+AX88179      ASIX AX88179 USB 3.0 t Kernel        09/12/2019 12:28:31
+b06bdrv      QLogic Network Adapter Kernel        25/05/2016 9:03:08
+bam          Background Activity Mo Kernel
+BasicDisplay BasicDisplay           Kernel
+BasicRender  BasicRender            Kernel
+bcmfn2       bcmfn2 Service         Kernel        01/11/2016 3:09:15
+Beep         Beep                   Kernel
+bfs          Brokering File System  File System
+bindflt      Windows Bind Filter Dr File System
+bowser       Browser                File System
+BthA2dp      Microsoft Bluetooth A2 Kernel
+BthEnum      Bluetooth Enumerator S Kernel
+BthHFEnum    Microsoft Bluetooth Ha Kernel
+BthLEEnum    Bluetooth Low Energy D Kernel
+BthMini      Bluetooth Radio Driver Kernel
+BTHMODEM     Bluetooth Modem Commun Kernel
+BthPan       Bluetooth Device (Pers Kernel
+BTHPORT      Bluetooth Port Driver  Kernel
+BTHUSB       Bluetooth Radio USB Dr Kernel
+bttflt       Microsoft Hyper-V VHDP Kernel
+buttonconver Service for Portable D Kernel
+CAD          Charge Arbitration Dri Kernel
+Ccx01000     Ccx01000               Kernel
+CDD          Canonical Display Driv Kernel
+cdfs         CD/DVD File System Rea File System
+cdrom        CD-ROM Driver          Kernel
+cht4iscsi    cht4iscsi              Kernel        05/02/2019 14:51:31
+cht4vbd      Chelsio Virtual Bus Dr Kernel        05/02/2019 14:47:51
+CimFS        CimFS                  File System
+circlass     Consumer IR Devices    Kernel
+CldFlt       Windows Cloud Files Fi File System
+CLFS         Common Log (CLFS)      Kernel
+CmBatt       Microsoft ACPI Control Kernel
+CNG          CNG                    Kernel
+cnghwassist  CNG Hardware Assist al Kernel
+CompositeBus Composite Bus Enumerat Kernel
+condrv       Console Driver         Kernel
+dam          Desktop Activity Moder Kernel
+devmap       Usermode Device Mapper Kernel
+Dfsc         DFS Namespace Client D File System
+disk         Disk Driver            Kernel
+DisplayMux   Microsoft DisplayMux   Kernel
+dmvsc        dmvsc                  Kernel
+drmkaud      Microsoft Trusted Audi Kernel
+DRTMNull     DRTMNull               Kernel        16/10/2025 22:53:53
+DXGKrnl      LDDM Graphics Subsyste Kernel
+ebdrv        QLogic 10 Gigabit Ethe Kernel        15/11/2020 11:12:10
+ebdrv0       QLogic Legacy Ethernet Kernel        07/11/2020 11:07:41
+EhStorClass  Enhanced Storage Filte Kernel
+EhStorTcgDrv Microsoft driver for s Kernel
+ErrDev       Microsoft Hardware Err Kernel
+ExecutionCon CPU Scheduler for High Kernel
+exfat        exFAT File System Driv File System
+fastfat      FAT12/16/32 File Syste File System
+fdc          Floppy Disk Controller Kernel
+FileCrypt    FileCrypt              File System
+FileInfo     File Information FS Mi File System
+Filetrace    Filetrace              File System
+flpydisk     Floppy Disk Driver     Kernel
+FltMgr       FltMgr                 File System
+FsDepends    File System Dependency File System
+fvevol       BitLocker Drive Encryp Kernel
+gencounter   Microsoft Hyper-V Gene Kernel
+genericusbfn Generic USB Function C Kernel
+GenPass      Microsoft GenPass Driv Kernel
+GPIOClx0101  Microsoft GPIO Class E Kernel
+HdAudAddServ Microsoft 1.1 UAA Func Kernel
+HDAudBus     Microsoft UAA Bus Driv Kernel
+HidBatt      HID UPS Battery Driver Kernel
+HidBth       Microsoft Bluetooth HI Kernel
+hidi2c       Microsoft I2C HID Mini Kernel
+hidinterrupt Common Driver for HID  Kernel
+HidIr        Microsoft Infrared HID Kernel
+hidspi       Microsoft SPI HID Mini Kernel
+HidSpiCx     HidSpi KMDF Class Exte Kernel
+HidUsb       Microsoft HID Class Dr Kernel
+HpSAMD       HpSAMD                 Kernel        26/03/2013 22:36:54
+Hsp          Microsoft Pluton Servi Kernel
+HTTP         HTTP Service           Kernel
+hvcrash      hvcrash                Kernel
+hvservice    Microsoft Hypervisor S Kernel
+HwNClx0101   Microsoft Hardware Not Kernel
+hwpolicy     Hardware Policy Driver Kernel
+hyperkbd     hyperkbd               Kernel
+HyperVideo   HyperVideo             Kernel
+I3CHost      I3C Host Controller Se Kernel
+i8042prt     i8042 Keyboard and PS/ Kernel
+iagpio       Intel Serial IO GPIO C Kernel        23/07/2018 11:04:46
+iai2c        Intel(R) Serial IO I2C Kernel        23/07/2018 11:04:39
+iaLPSS2i_GPI Intel(R) Serial IO GPI Kernel        19/04/2018 9:53:24
+iaLPSS2i_GPI Intel(R) Serial IO GPI Kernel        17/04/2018 11:25:15
+iaLPSS2i_GPI Intel(R) Serial IO GPI Kernel        17/04/2018 9:07:03
+iaLPSS2i_GPI Intel(R) Serial IO GPI Kernel        16/05/2018 7:46:36
+iaLPSS2i_I2C Intel(R) Serial IO I2C Kernel        19/04/2018 9:52:58
+iaLPSS2i_I2C Intel(R) Serial IO I2C Kernel        17/04/2018 11:24:40
+iaLPSS2i_I2C Intel(R) Serial IO I2C Kernel        15/07/2019 7:12:12
+iaLPSS2i_I2C Intel(R) Serial IO I2C Kernel        16/05/2018 7:46:02
+iaLPSSi_GPIO Intel(R) Serial IO GPI Kernel        02/02/2015 10:00:09
+iaLPSSi_I2C  Intel(R) Serial IO I2C Kernel        24/02/2015 16:52:07
+iaStorAVC    Intel Chipset SATA RAI Kernel        05/09/2019 14:07:32
+iaStorV      Intel RAID Controller  Kernel        11/04/2011 20:48:16
+ibbus        Mellanox InfiniBand Bu Kernel        19/06/2019 15:20:09
+IndirectKmd  Indirect Displays Kern Kernel
+IntcAzAudAdd Service for Realtek HD Kernel        28/04/2025 12:53:37
+intelide     intelide               Kernel
+intelpep     Intel(R) Power Engine  Kernel
+intelpmax    Intel(R) Dynamic Devic Kernel
+IntelPMT     Intel(R) Platform Moni Kernel
+intelppm     Intel Processor Driver Kernel
+iorate       Disk I/O Rate Filter D Kernel
+IpFilterDriv IP Traffic Filter Driv Kernel
+IPMIDRV      IPMIDRV                Kernel
+IPNAT        IP Network Address Tra Kernel
+IPT          IPT                    Kernel
+IpuMcdmDrive IpuMcdmDriver          Kernel        12/03/2025 22:11:28
+isapnp       isapnp                 Kernel
+iScsiPrt     iScsiPort Driver       Kernel
+ItSas35i     ItSas35i               Kernel        01/03/2021 11:15:20
+kbdclass     Keyboard Class Driver  Kernel
+kbdhid       Keyboard HID Driver    Kernel
+kdnic        Microsoft Kernel Debug Kernel
+kdnic_legacy Microsoft Kernel Debug Kernel
+KSecDD       KSecDD                 Kernel
+KSecPkg      KSecPkg                Kernel
+KslD         KslD                   Kernel
+ksthunk      Kernel Streaming Thunk Kernel
+lltdio       Link-Layer Topology Di Kernel
+LockDownServ LockDownService215     File System   28/08/2026 19:11:45
+logi_lamparr Logitech LampArray Dev Kernel        27/02/2026 19:56:43
+LSI_SAS      LSI_SAS                Kernel        25/03/2015 20:36:48
+LSI_SAS2i    LSI_SAS2i              Kernel        02/08/2017 15:29:59
+LSI_SAS3i    LSI_SAS3i              Kernel        21/08/2020 9:33:28
+luafv        UAC File Virtualizatio File System
+mausbhost    MA-USB Host Controller Kernel
+mausbip      MA-USB IP Filter Drive Kernel
+MbbCx        MBB Network Adapter Cl Kernel
+megasas2i    megasas2i              Kernel        22/01/2020 10:57:48
+megasas35i   megasas35i             Kernel        12/01/2021 8:59:10
+megasr       megasr                 Kernel        04/06/2013 0:02:39
+mfeelam      McAfee ELAM Driver     Kernel        04/12/2025 17:45:11
+mfesec       McAfee Security Driver File System   17/04/2026 12:32:37
+Microsoft_Bl Microsoft Bluetooth Av Kernel
+mlx4_bus     Mellanox ConnectX Bus  Kernel        19/06/2019 15:21:08
+MMCSS        Multimedia Class Sched Kernel
+Modem        Modem                  Kernel
+monitor      Microsoft Monitor Clas Kernel
+mouclass     Mouse Class Driver     Kernel
+mouhid       Mouse HID Driver       Kernel
+mountmgr     Mount Point Manager    Kernel
+mpi3drvi     mpi3drvi               Kernel        16/11/2021 23:22:38
+mpsdrv       Windows Defender Firew Kernel
+MRxDAV       WebDav Client Redirect File System
+mrxsmb       SMB MiniRedirector Wra File System
+mrxsmb20     SMB 2.0 MiniRedirector File System
+MsBridge     Microsoft MAC Bridge   Kernel
+Msfs         Msfs                   File System
+msgpiowin32  Common Driver for Butt Kernel
+mshidkmdf    Pass-through HID to KM Kernel
+mshidumdf    Pass-through HID to UM Kernel
+msisadrv     msisadrv               Kernel
+MSKSSRV      Microsoft Streaming Se Kernel
+MsLldp       Microsoft Link-Layer D Kernel
+MSPCLOCK     Microsoft Streaming Cl Kernel
+MSPQM        Microsoft Streaming Qu Kernel
+MsQuic       MsQuic                 Kernel
+MsQuicPrev   MSQUIC                 Kernel
+MsRPC        MsRPC                  Kernel
+mssmbios     Microsoft System Manag Kernel
+MSTEE        Microsoft Streaming Te Kernel
+MTConfig     Microsoft Input Config Kernel
+Mup          Mup                    File System
+mvumis       mvumis                 Kernel        23/05/2014 22:39:04
+NativeWifiP  NativeWiFi Filter      Kernel
+ndfltr       NetworkDirect Service  Kernel        19/06/2019 15:18:42
+NDIS         NDIS System Driver     Kernel
+NdisCap      Microsoft NDIS Capture Kernel
+NdisImPlatfo Microsoft Network Adap Kernel
+NdisTapi     Remote Access NDIS TAP Kernel
+Ndisuio      NDIS Usermode I/O Prot Kernel
+NdisVirtualB Microsoft Virtual Netw Kernel
+NdisWan      Remote Access NDIS WAN Kernel
+ndiswanlegac Remote Access LEGACY N Kernel
+NDKPerf      NDKPerf Driver         Kernel
+NDKPing      NDKPing Driver         Kernel
+ndproxy      NDIS Proxy Driver      Kernel
+Ndu          Windows Network Data U Kernel
+NetAdapterCx Network Adapter WDF Cl Kernel
+NetBIOS      NetBIOS Interface      File System
+NetBT        NetBT                  Kernel
+netvsc       netvsc                 Kernel
+NetworkPriva Microsoft Network Priv Kernel
+Npfs         Npfs                   File System
+npsvctrig    Named pipe service tri Kernel
+nsiproxy     NSI Proxy Service Driv Kernel
+Ntfs         Ntfs                   File System
+Null         Null                   Kernel
+nvdimm       Microsoft NVDIMM devic Kernel
+NVHDA        Service for NVIDIA Hig Kernel        24/07/2026 18:18:20
+nvlddmkm     nvlddmkm               Kernel        18/09/2026 1:53:52
+nvmedisk     Microsoft NVMe disk dr Kernel
+nvpcf        NVPCF Service          Kernel        20/05/2026 18:01:33
+nvraid       nvraid                 Kernel        21/04/2014 20:28:42
+nvstor       nvstor                 Kernel        21/04/2014 20:34:03
+nvvad_WaveEx NVIDIA Virtual Audio D Kernel        04/08/2026 12:00:55
+P9Rdr        Plan 9 Redirector Driv Kernel
+Parport      Parallel port driver   Kernel
+partmgr      Partition driver       Kernel
+pci          PCI Bus Driver         Kernel
+pciide       pciide                 Kernel
+pcmcia       pcmcia                 Kernel
+pcw          Performance Counters f Kernel
+pdc          pdc                    Kernel
+PEAUTH       PEAUTH                 Kernel
+percsas2i    percsas2i              Kernel        15/03/2016 1:50:11
+percsas3i    percsas3i              Kernel        01/06/2018 23:47:02
+PktMon       Packet Monitor Driver  Kernel
+PktMonApi    Packet Monitor Export  Kernel
+PlutonHeci   Microsoft Pluton Secur Kernel
+PlutonHsp2   Microsoft Pluton Servi Kernel
+pmem         Microsoft persistent m Kernel
+PNPMEM       Microsoft Memory Modul Kernel
+polarbear-sp polarbear-split-tunnel Kernel        16/09/2022 15:43:28
+portcfg      portcfg                Kernel
+PptpMiniport WAN Miniport (PPTP)    Kernel
+PRHidDrv     Parade HID Device      Kernel        21/02/2024 8:02:44
+PRM          Microsoft PRM Driver   Kernel
+Processor    Processor Driver       Kernel
+PRSpbDrv     Parade SPB Peripheral  Kernel        21/02/2024 9:09:41
+Psched       QoS Packet Scheduler   Kernel
+pvscsi       pvscsi Storage Control Kernel        20/05/2021 5:55:26
+QWAVEdrv     QWAVE driver           Kernel
+Ramdisk      Windows RAM Disk Drive Kernel
+RasAcd       Remote Access Auto Con Kernel
+RasAgileVpn  WAN Miniport (IKEv2)   Kernel
+Rasl2tp      WAN Miniport (L2TP)    Kernel
+RasPppoe     Remote Access PPPOE Dr Kernel
+RasSstp      WAN Miniport (SSTP)    Kernel
+rcbottom     AMD-RAID Bottom Servic Kernel        11/06/2024 11:52:44
+rccfg        AMD-RAID Config Device Kernel        11/06/2024 11:52:50
+rcraid       rcraid                 Kernel        11/06/2024 11:54:11
+rdbss        Redirected Buffering S File System
+rdpbus       Remote Desktop Device  Kernel
+RDPDR        Remote Desktop Device  Kernel
+rdyboost     ReadyBoost             Kernel
+ReFS         ReFS                   File System
+ReFSv1       ReFSv1                 File System
+RFCOMM       Bluetooth Device (RFCO Kernel
+rhproxy      Resource Hub proxy dri Kernel
+rspndr       Link-Layer Topology Di Kernel
+RtkBtFilter2 Realtek Bluetooth Filt Kernel        03/03/2026 7:07:10
+RtkBthLeVDsp Realtek Bluetooth LE A Kernel        18/03/2025 2:23:55
+RTSPER       Realtek PCIE Card Read Kernel        28/11/2024 8:05:26
+rtwlane602   Realtek Wireless LAN 8 Kernel        31/07/2025 10:36:52
+s3cap        s3cap                  Kernel
+sbp2port     SBP-2 Transport/Protoc Kernel
+scfilter     Smart card PnP Class F Kernel
+scmbus       Microsoft Storage Clas Kernel
+sdbus        sdbus                  Kernel
+SdcaHidInbox SoundWire HID Driver   Kernel
+SdcaMfdInbox SoundWire Audio Multif Kernel
+sdstor       SD Storage Port Driver Kernel
+SerCx        Serial UART Support Li Kernel
+SerCx2       Serial UART Support Li Kernel
+Serenum      Serenum Filter Driver  Kernel
+Serial       Serial port driver     Kernel
+sermouse     Serial Mouse Driver    Kernel
+sfloppy      High-Capacity Floppy D Kernel
+SiSRaid2     SiSRaid2               Kernel        24/09/2008 20:28:20
+SiSRaid4     SiSRaid4               Kernel        01/10/2008 23:56:04
+SmartSAMD    SmartSAMD              Kernel        21/02/2019 18:54:44
+spaceparser  spaceparser            Kernel
+spaceport    Storage Spaces Driver  Kernel
+SpbCx        Simple Peripheral Bus  Kernel
+srv2         Server SMB 2.xxx Drive File System
+srvnet       srvnet                 File System
+stexstor     stexstor               Kernel        27/11/2012 1:02:51
+storahci     Microsoft Standard SAT Kernel
+storflt      Microsoft Hyper-V Stor Kernel
+stornvme     Microsoft Standard NVM Kernel
+storqosflt   Storage QoS Filter Dri File System
+storufs      Microsoft Universal Fl Kernel
+storvsc      storvsc                Kernel
+swenum       Software Bus Driver    Kernel
+tap0901      TAP-Windows Adapter V9 Kernel        07/09/2022 11:23:28
+Tcpip        TCP/IP Protocol Driver Kernel
+Tcpip6       @todo.dll,-100;Microso Kernel
+tcpipreg     @%SystemRoot%\System32 Kernel
+tdx          NetIO Legacy TDI Suppo Kernel
+terminpt     Microsoft Remote Deskt Kernel
+ThermalFilte Microsoft Thermal Filt Kernel
+TPM          TPM                    Kernel
+TsUsbFlt     Remote Desktop USB Hub Kernel
+TsUsbGD      Remote Desktop Generic Kernel
+tunnel       Microsoft Tunnel Minip Kernel
+UASPStor     USB Attached SCSI (UAS Kernel
+UcmCx0101    USB Connector Manager  Kernel
+UcmTcpciCx01 UCM-TCPCI KMDF Class E Kernel
+UcmUcsiAcpiC UCM-UCSI ACPI Client   Kernel
+UcmUcsiCx010 UCM-UCSI KMDF Class Ex Kernel
+UCPD         UCPD                   File System
+Ucx01000     USB Host Support Libra Kernel
+UdeCx        USB Device Emulation S Kernel
+udfs         udfs                   File System
+UEFI         Microsoft UEFI Driver  Kernel
+Ufx01000     USB Function Class Ext Kernel
+UfxChipidea  USB Chipidea Controlle Kernel
+ufxsynopsys  USB Synopsys Controlle Kernel
+uiomap       Microsoft UIO Mapper D Kernel
+umbus        UMBus Enumerator Drive Kernel
+UmPass       Microsoft UMPass Drive Kernel
+UnionFS      UnionFS                File System
+UrsChipidea  Chipidea USB Role-Swit Kernel
+UrsCx01000   USB Role-Switch Suppor Kernel
+UrsSynopsys  Synopsys USB Role-Swit Kernel
+usb-platform Usb Platform Detection Kernel
+Usb4DeviceRo USB4 Device Router Ser Kernel
+Usb4HostRout USB4 Host Router Servi Kernel
+usbaudio     USB Audio Driver (WDM) Kernel
+usbaudio2    USB Audio 2.0 Service  Kernel
+usbccgp      Microsoft USB Generic  Kernel
+usbcir       eHome Infrared Receive Kernel
+usbehci      Microsoft USB 2.0 Enha Kernel
+usbhub       Microsoft USB Standard Kernel
+USBHUB3      SuperSpeed Hub         Kernel
+usbohci      Microsoft USB Open Hos Kernel
+usbprint     Microsoft USB PRINTER  Kernel
+usbser       Microsoft USB Serial D Kernel
+USBSTOR      USB Mass Storage Drive Kernel
+usbuhci      Microsoft USB Universa Kernel
+usbvideo     USB Video Device (WDM) Kernel
+USBXHCI      USB xHCI Compliant Hos Kernel
+vdrvroot     Microsoft Virtual Driv Kernel
+VerifierExt  Driver Verifier Extens Kernel
+vhdmp        vhdmp                  Kernel
+vhf          Virtual HID Framework  Kernel
+Vid          Vid                    Kernel
+VirtualRende VirtualRender          Kernel
+vmbus        Virtual Machine Bus    Kernel
+VMBusHID     VMBusHID               Kernel
+vmgid        Microsoft Hyper-V Gues Kernel
+volmgr       Volume Manager Driver  Kernel
+volmgrx      Dynamic Volume Manager Kernel
+volsnap      Volume Shadow Copy dri Kernel
+volume       Volume driver          Kernel
+vpci         Microsoft Hyper-V Virt Kernel
+vsmraid      vsmraid                Kernel        22/04/2014 21:21:41
+VSTXRAID     VIA StorX Storage RAID Kernel        21/01/2013 20:00:28
+vwifibus     Virtual Wireless Bus D Kernel
+vwififlt     Virtual WiFi Filter Dr Kernel
+vwifimp      Virtual WiFi Miniport  Kernel
+WacomPen     Wacom Serial Pen HID D Kernel
+wanarp       Remote Access IP ARP D Kernel
+wanarpv6     Remote Access IPv6 ARP Kernel
+wcifs        Windows Container Isol File System
+WdAiNisDrv   Microsoft WdAiNisDrv D Kernel
+WdBoot       Microsoft Defender Ant Kernel
+Wdf01000     Kernel Mode Driver Fra Kernel
+WdFilter     Microsoft Defender Ant File System
+wdiwifi      WDI Driver Framework   Kernel
+WdmCompanion WdmCompanionFilter     Kernel
+WdNisDrv     Microsoft Defender Ant Kernel
+WFPLWFS      Microsoft Windows Filt Kernel
+Wificx       Wifi Network Adapter C Kernel
+WIMMount     WIMMount               File System
+WinAccelCx01 Microsoft Accelerator  Kernel
+WindowsTrust Windows Trusted Execut Kernel
+WindowsTrust Microsoft Windows Trus Kernel
+wini3ctarget Generic driver for I3C Kernel
+WinMad       WinMad Service         Kernel        19/06/2019 15:18:11
+WinNat       Windows NAT Driver     Kernel
+WINUSB       WinUsb Driver          Kernel
+WinVerbs     WinVerbs Service       Kernel        19/06/2019 15:18:12
+WmiAcpi      Microsoft Windows Mana Kernel
+Wof          Windows Overlay File S File System
+WpdUpFltr    WPD Upper Class Filter Kernel
+ws2ifsl      Winsock IFS Driver     Kernel
+wtd          wtd                    Kernel
+WudfPf       User Mode Driver Frame Kernel
+WUDFRd       Windows Driver Foundat Kernel
+WUDFWpdMtp   WUDFWpdMtp             Kernel
+xboxgip      Xbox Game Input Protoc Kernel
+xinputhid    XINPUT HID Filter Driv Kernel
+
+C:\Users\sonia>TASKLIST
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0     11.504 K
+Secure System                  236 Services                   0    115.724 K
+Registry                       280 Services                   0     59.796 K
+smss.exe                       948 Services                   0      1.852 K
+csrss.exe                     1456 Services                   0      7.000 K
+wininit.exe                   1688 Services                   0      9.268 K
+csrss.exe                     1700 Console                    1     13.588 K
+services.exe                  1768 Services                   0     12.740 K
+LsaIso.exe                    1776 Services                   0      4.360 K
+lsass.exe                     1796 Services                   0     37.444 K
+svchost.exe                   1916 Services                   0     43.180 K
+fontdrvhost.exe               1928 Services                   0      5.168 K
+svchost.exe                   2024 Services                   0     20.480 K
+WUDFCompanionHost.exe         2032 Services                   0      4.408 K
+svchost.exe                   1064 Services                   0     12.608 K
+WUDFHost.exe                  1340 Services                   0      7.816 K
+WUDFCompanionHost.exe         1856 Services                   0      4.524 K
+winlogon.exe                   968 Console                    1     27.716 K
+fontdrvhost.exe               2088 Console                    1      8.012 K
+WUDFCompanionHost.exe         2096 Services                   0      4.516 K
+dwm.exe                       2196 Console                    1    231.304 K
+svchost.exe                   2276 Services                   0     13.532 K
+svchost.exe                   2288 Services                   0      7.164 K
+svchost.exe                   2296 Services                   0     31.860 K
+svchost.exe                   2304 Services                   0     12.656 K
+amdpmfservice.exe             2340 Services                   0      8.764 K
+svchost.exe                   2496 Services                   0     12.924 K
+svchost.exe                   2580 Services                   0     14.600 K
+svchost.exe                   2588 Services                   0     15.864 K
+svchost.exe                   2644 Services                   0     10.136 K
+svchost.exe                   2668 Services                   0     18.528 K
+svchost.exe                   2684 Services                   0     11.204 K
+svchost.exe                   2820 Services                   0     14.544 K
+svchost.exe                   2828 Services                   0     12.216 K
+svchost.exe                   2932 Services                   0     21.628 K
+svchost.exe                   2984 Services                   0     11.496 K
+svchost.exe                   2992 Services                   0     10.332 K
+svchost.exe                   3060 Services                   0     23.192 K
+svchost.exe                   3192 Services                   0     14.112 K
+svchost.exe                   3512 Services                   0      8.260 K
+NVDisplay.Container.exe       3556 Services                   0     58.920 K
+svchost.exe                   3636 Services                   0     25.120 K
+atiesrxx.exe                  3768 Services                   0     13.108 K
+amdfendrsr.exe                3780 Services                   0     10.648 K
+svchost.exe                   3928 Services                   0      7.820 K
+svchost.exe                   3932 Services                   0     19.508 K
+svchost.exe                   3944 Services                   0     10.876 K
+atieclxx.exe                  3952 Console                    1     22.420 K
+Memory Compression            4084 Services                   0    295.880 K
+svchost.exe                   2928 Services                   0     12.016 K
+svchost.exe                   3724 Services                   0     12.020 K
+svchost.exe                   3776 Services                   0     10.644 K
+svchost.exe                   4116 Services                   0     25.300 K
+svchost.exe                   4148 Services                   0     11.688 K
+svchost.exe                   4276 Services                   0     35.736 K
+svchost.exe                   4320 Services                   0      9.080 K
+svchost.exe                   4500 Services                   0     25.608 K
+svchost.exe                   4516 Services                   0     27.868 K
+svchost.exe                   4552 Services                   0     19.876 K
+AsusOptimization.exe          4608 Services                   0     14.208 K
+spoolsv.exe                   4788 Services                   0     21.984 K
+svchost.exe                   4852 Services                   0     27.424 K
+svchost.exe                   4920 Services                   0     14.076 K
+svchost.exe                   4948 Services                   0     10.888 K
+svchost.exe                   5004 Services                   0     15.752 K
+svchost.exe                   4888 Services                   0     59.972 K
+AsusSystemDiagnosis.exe       5132 Services                   0     15.808 K
+svchost.exe                   5196 Services                   0     52.488 K
+svchost.exe                   5216 Services                   0     16.128 K
+svchost.exe                   5204 Services                   0      9.600 K
+servicehost.exe               5228 Services                   0     43.016 K
+nvcontainer.exe               5240 Services                   0     45.636 K
+mc-fw-host.exe                5264 Services                   0    275.668 K
+RtkAudUService64.exe          5280 Services                   0     18.700 K
+OfficeClickToRun.exe          5300 Services                   0     76.624 K
+MpDefenderCoreService.exe     5308 Services                   0     31.920 K
+svchost.exe                   5324 Services                   0     12.260 K
+NgcIso.exe                    5352 Services                   0      4.796 K
+svchost.exe                   5380 Services                   0     26.876 K
+svchost.exe                   5424 Services                   0      7.820 K
+AmdPpkgSvc.exe                5540 Services                   0      6.484 K
+GameSDK.exe                   5556 Services                   0      9.784 K
+GlideXRemoteService.exe       5564 Services                   0     15.656 K
+MsMpEng.exe                   5572 Services                   0    290.032 K
+AuraWallpaperService.exe      5584 Services                   0     37.404 K
+ArmouryCrateControlInterf     5600 Services                   0     14.960 K
+ArmouryCrate.Service.exe      5608 Services                   0     92.756 K
+RtkBtManServ.exe              5616 Services                   0     11.748 K
+AsusSoftwareManager.exe       5624 Services                   0     23.208 K
+GlideXService.exe             5656 Services                   0     25.056 K
+AsusSwitch.exe                5668 Services                   0     10.992 K
+AsusSystemAnalysis.exe        5696 Services                   0     19.464 K
+DAX3API.exe                   5708 Services                   0     23.016 K
+AsusScreenXpertHostServic     5720 Services                   0     29.816 K
+AsusAppService.exe            5752 Services                   0     34.728 K
+GlideXServiceExt.exe          5824 Services                   0     20.828 K
+AsusPTPService.exe            5832 Services                   0      9.812 K
+LightingService.exe           5864 Services                   0     31.356 K
+ROGLiveService.exe            5928 Services                   0     29.564 K
+svchost.exe                   5960 Services                   0     13.016 K
+logi_lamparray_service.AM     6020 Services                   0     15.152 K
+svchost.exe                   6324 Services                   0      9.816 K
+NVDisplay.Container.exe       6372 Console                    1    183.476 K
+AggregatorHost.exe            7676 Services                   0     10.664 K
+RtkAudUService64.exe          7976 Services                   0     18.904 K
+WmiPrvSE.exe                  8420 Services                   0     14.844 K
+svchost.exe                  10112 Services                   0     12.060 K
+nvcontainer.exe               9636 Console                    1     56.568 K
+unsecapp.exe                  9808 Services                   0      9.780 K
+svchost.exe                  10516 Services                   0     28.224 K
+svchost.exe                  10696 Services                   0     10.844 K
+svchost.exe                  10220 Services                   0     42.700 K
+DefenderAiPlatformHost.ex     4288 Services                   0      7.076 K
+svchost.exe                  11936 Services                   0      7.672 K
+SearchIndexer.exe             5360 Services                   0     58.528 K
+NisSrv.exe                    8756 Services                   0     16.456 K
+svchost.exe                  12608 Services                   0      8.224 K
+svchost.exe                  12700 Services                   0     24.896 K
+svchost.exe                  12956 Services                   0     17.440 K
+amdpmfserviceuser.exe        13032 Console                    1      6.568 K
+conhost.exe                  13072 Console                    1      6.980 K
+DefenderSessionHelper.exe    13080 Console                    1      6.168 K
+uihost.exe                   13104 Console                    1     30.836 K
+ArmouryCrate.UserSessionH    13176 Console                    1    112.308 K
+conhost.exe                  13196 Console                    1      7.180 K
+mc-fw-host.exe               13240 Console                    1     38.992 K
+nvcontainer.exe              13252 Console                    1     37.360 K
+AsusOptimizationStartupTa    13264 Console                    1     23.856 K
+DAX3API.exe                  13272 Console                    1     15.876 K
+nvcontainer.exe              13288 Console                    1     81.712 K
+sihost.exe                   13428 Console                    1     53.560 K
+svchost.exe                  13472 Console                    1     42.148 K
+svchost.exe                  13684 Console                    1      7.908 K
+svchost.exe                  13760 Console                    1     42.908 K
+taskhostw.exe                13924 Console                    1     24.968 K
+svchost.exe                  13992 Services                   0     30.016 K
+AsHotplugCtrl.exe            14016 Console                    1      2.176 K
+ArmourySocketServer.exe      14056 Console                    1      2.428 K
+AcPowerNotification.exe      14152 Console                    1     15.228 K
+AsMonitorControl.exe         14164 Console                    1      2.140 K
+ASUSSmartDisplayControl.e    14224 Console                    1      3.288 K
+mc-vpn.exe                   13668 Services                   0     62.160 K
+svchost.exe                  14404 Services                   0     24.972 K
+explorer.exe                 14628 Console                    1    260.904 K
+asus_framework.exe           14648 Console                    1     17.064 K
+ShellHost.exe                14744 Console                    1     64.900 K
+CrossDeviceResume.exe        14980 Console                    1     58.788 K
+svchost.exe                  14216 Console                    1     27.236 K
+AsusScreenXpertUI.exe        15540 Console                    1     18.076 K
+SearchHost.exe               15592 Console                    1    144.488 K
+StartMenuExperienceHost.e    15616 Console                    1    178.040 K
+WidgetBoard.exe              15796 Console                    1     33.268 K
+svchost.exe                  16300 Console                    1     31.988 K
+RuntimeBroker.exe            16352 Console                    1     72.988 K
+svchost.exe                  16968 Services                   0     18.148 K
+WidgetService.exe            17008 Console                    1     26.672 K
+WhatsApp.Root.exe            17016 Console                    1    293.388 K
+msedgewebview2.exe           17236 Console                    1    138.896 K
+nvsphelper64.exe             16788 Console                    1     17.908 K
+msedgewebview2.exe           17520 Console                    1     13.208 K
+NVIDIA Overlay.exe           17544 Console                    1    219.116 K
+msedgewebview2.exe           17364 Console                    1     94.672 K
+msedgewebview2.exe           17300 Console                    1     42.540 K
+msedgewebview2.exe           10160 Console                    1     20.924 K
+msedgewebview2.exe           18592 Console                    1    122.332 K
+RtkAudUService64.exe         18816 Console                    1     20.064 K
+NVIDIA Overlay.exe            4340 Console                    1    110.492 K
+NVIDIA Overlay.exe           18148 Console                    1     38.652 K
+NVIDIA Overlay.exe           18676 Console                    1     25.052 K
+MicrosoftStartFeedProvide    19572 Console                    1     42.012 K
+ArmouryCrate.exe             19912 Console                    1      7.348 K
+NVIDIA Overlay.exe           19932 Console                    1     92.440 K
+svchost.exe                  20020 Services                   0     28.008 K
+PushNotificationsLongRunn    19960 Console                    1     18.144 K
+RuntimeBroker.exe            20228 Console                    1     15.512 K
+ctfmon.exe                   19908 Console                    1     36.180 K
+ShellExperienceHost.exe      20236 Console                    1    108.612 K
+svchost.exe                  21104 Services                   0     17.176 K
+svchost.exe                  16936 Services                   0     24.004 K
+MoNotificationUx.exe         20896 Console                    1     14.748 K
+PhoneExperienceHost.exe      21592 Console                    1    248.272 K
+asus_framework.exe           22116 Console                    1      1.532 K
+asus_framework.exe           22220 Console                    1      4.704 K
+SecurityHealthSystray.exe    22460 Console                    1     13.780 K
+SecurityHealthService.exe    22484 Services                   0     25.340 K
+OneDrive.exe                 18184 Console                    1    135.372 K
+svchost.exe                  12196 Services                   0     11.096 K
+steam.exe                    17040 Console                    1    146.228 K
+Discord.exe                  22304 Console                    1    155.004 K
+Discord.exe                  14356 Console                    1     34.948 K
+Discord.exe                   3668 Console                    1    224.820 K
+Discord.exe                  21456 Console                    1     60.768 K
+FileSyncHelper.exe           22960 Services                   0     29.660 K
+steamwebhelper.exe           23196 Console                    1    185.820 K
+steamservice.exe             23444 Services                   0     20.012 K
+steamwebhelper.exe           23524 Console                    1     16.540 K
+Discord.exe                  23532 Console                    1    325.760 K
+steamwebhelper.exe           22316 Console                    1     81.136 K
+steamwebhelper.exe           24008 Console                    1     33.540 K
+steamwebhelper.exe           24044 Console                    1     24.916 K
+steamwebhelper.exe           24240 Console                    1    449.544 K
+Discord.exe                  24728 Console                    1     93.980 K
+svchost.exe                  24944 Services                   0     17.728 K
+svchost.exe                  25124 Services                   0     15.452 K
+WWAHost.exe                  25496 Console                    1    208.960 K
+RuntimeBroker.exe            26652 Console                    1     26.968 K
+dllhost.exe                  27036 Console                    1     16.516 K
+svchost.exe                  27360 Console                    1     26.680 K
+RtkAudUService64.exe         27600 Console                    1      3.320 K
+CrossDeviceService.exe       26604 Console                    1    189.508 K
+RuntimeBroker.exe            25260 Console                    1     14.648 K
+RuntimeBroker.exe            28184 Console                    1     23.128 K
+msedgewebview2.exe           28464 Console                    1     52.492 K
+msedgewebview2.exe           28492 Console                    1     13.516 K
+msedgewebview2.exe           27660 Console                    1     12.556 K
+msedgewebview2.exe            4132 Console                    1     20.904 K
+msedgewebview2.exe            4432 Console                    1      1.624 K
+msedgewebview2.exe            8168 Console                    1      4.020 K
+steamwebhelper.exe            3084 Console                    1    106.184 K
+AsusOSD.exe                  22020 Console                    1     13.028 K
+msedgewebview2.exe           26140 Console                    1      1.776 K
+svchost.exe                  23664 Services                   0     17.932 K
+RadeonSoftware.exe           28232 Console                    1     61.704 K
+cncmd.exe                    26576 Console                    1      9.340 K
+AsusSoftwareManagerAgent.    21480 Console                    1     62.832 K
+svchost.exe                  25552 Services                   0     31.692 K
+svchost.exe                   2620 Services                   0     17.752 K
+svchost.exe                  11588 Services                   0     26.492 K
+ApplicationFrameHost.exe      7468 Console                    1     64.928 K
+svchost.exe                   7048 Console                    1     17.048 K
+SystemSettings.exe           17940 Console                    1      7.268 K
+svchost.exe                  16992 Services                   0     10.244 K
+svchost.exe                  20408 Console                    1     15.064 K
+svchost.exe                  20200 Services                   0     13.812 K
+UserOOBEBroker.exe           16368 Console                    1     11.844 K
+svchost.exe                  27792 Services                   0     17.516 K
+mc-neo-host.exe              13056 Services                   0     29.548 K
+AppActions.exe               14908 Console                    1     44.508 K
+svchost.exe                  10580 Services                   0     10.996 K
+msedge.exe                   20748 Console                    1    472.496 K
+msedge.exe                   16232 Console                    1     13.632 K
+msedge.exe                    4360 Console                    1    418.972 K
+msedge.exe                    3412 Console                    1     88.116 K
+msedge.exe                   10428 Console                    1     25.100 K
+identity_helper.exe           4980 Console                    1     24.872 K
+msedge.exe                     828 Console                    1     86.496 K
+msedge.exe                   12180 Console                    1      4.556 K
+msedge.exe                   26988 Console                    1      5.508 K
+msedge.exe                   12252 Console                    1     22.660 K
+msedge.exe                    6088 Console                    1     64.472 K
+msedge.exe                   26156 Console                    1     31.316 K
+RuntimeBroker.exe            20664 Console                    1     32.080 K
+svchost.exe                  15724 Services                   0     31.324 K
+RuntimeBroker.exe            28040 Console                    1     29.052 K
+msedge.exe                   28028 Console                    1    426.328 K
+msedge.exe                   25512 Console                    1    145.496 K
+svchost.exe                  12136 Services                   0      9.240 K
+msedge.exe                   14456 Console                    1    118.668 K
+msedge.exe                    5776 Console                    1    314.128 K
+pythonw.exe                  12468 Console                    1     26.104 K
+pythonw.exe                   4940 Console                    1  1.025.148 K
+WmiPrvSE.exe                 25820 Services                   0     23.832 K
+cmd.exe                      25484 Console                    1     10.896 K
+conhost.exe                  24832 Console                    1      7.348 K
+jupyter-notebook.exe         13136 Console                    1      8.360 K
+python.exe                    2376 Console                    1    294.528 K
+msedge.exe                   10812 Console                    1    694.100 K
+msedge.exe                   21056 Console                    1    275.504 K
+python.exe                   27744 Console                    1    148.308 K
+python.exe                   14124 Console                    1    148.144 K
+msedge.exe                   19764 Console                    1     61.340 K
+msedge.exe                   22392 Console                    1     62.068 K
+msedge.exe                   27572 Console                    1     55.452 K
+msedge.exe                    3024 Console                    1     58.068 K
+msedge.exe                   10248 Console                    1     53.348 K
+msedge.exe                   26368 Console                    1     61.480 K
+msedge.exe                   26852 Console                    1     84.396 K
+msedge.exe                    7888 Console                    1     53.472 K
+msedge.exe                    8260 Console                    1     63.708 K
+msedge.exe                   26828 Console                    1     57.400 K
+msedge.exe                   17588 Console                    1     54.612 K
+msedge.exe                   26004 Console                    1     49.852 K
+msedge.exe                   25620 Console                    1     56.444 K
+msedge.exe                   23928 Console                    1     53.992 K
+msedge.exe                   22776 Console                    1     54.148 K
+msedge.exe                   27312 Console                    1     71.132 K
+msedge.exe                    2724 Console                    1     53.188 K
+msedge.exe                   22212 Console                    1     50.704 K
+msedge.exe                   28044 Console                    1     63.748 K
+msedge.exe                   10584 Console                    1     48.416 K
+msedge.exe                   12216 Console                    1     52.568 K
+msedge.exe                   26480 Console                    1     48.576 K
+msedge.exe                    2348 Console                    1     58.124 K
+msedge.exe                   17824 Console                    1     52.476 K
+msedge.exe                   16236 Console                    1     69.908 K
+msedge.exe                    3600 Console                    1     51.696 K
+msedge.exe                   14604 Console                    1     52.376 K
+msedge.exe                    4932 Console                    1     65.988 K
+msedge.exe                   15680 Console                    1     57.508 K
+msedge.exe                   15012 Console                    1    132.412 K
+msedge.exe                   27424 Console                    1     61.336 K
+msedge.exe                   10948 Console                    1     51.644 K
+msedge.exe                    9144 Console                    1     79.468 K
+msedge.exe                    3788 Console                    1     55.360 K
+msedge.exe                    5844 Console                    1    101.804 K
+msedge.exe                   21700 Console                    1     54.312 K
+msedge.exe                   27228 Console                    1     52.972 K
+msedge.exe                   27544 Console                    1     47.932 K
+msedge.exe                   26316 Console                    1     50.008 K
+msedge.exe                    8760 Console                    1     53.404 K
+msedge.exe                   24572 Console                    1     47.848 K
+msedge.exe                   17192 Console                    1     57.260 K
+msedge.exe                   13448 Console                    1     47.692 K
+msedge.exe                     836 Console                    1     54.104 K
+msedge.exe                    2696 Console                    1     60.936 K
+msedge.exe                   17812 Console                    1     53.644 K
+msedge.exe                   10660 Console                    1     56.684 K
+msedge.exe                   27284 Console                    1     48.212 K
+msedge.exe                   10904 Console                    1     48.092 K
+msedge.exe                   15660 Console                    1     54.148 K
+msedge.exe                   24304 Console                    1     35.448 K
+smartscreen.exe              24340 Console                    1     13.424 K
+svchost.exe                  25604 Services                   0      9.856 K
+cmd.exe                      30400 Console                    1      7.900 K
+conhost.exe                  30216 Console                    1     10.056 K
+OpenConsole.exe              17200 Console                    1     21.320 K
+WindowsTerminal.exe          27324 Console                    1    114.036 K
+svchost.exe                   3536 Services                   0     26.184 K
+SoftLandingTask.exe          26032 Console                    1     29.964 K
+SearchProtocolHost.exe       29056 Services                   0     20.536 K
+svchost.exe                  30468 Services                   0     16.084 K
+WmiPrvSE.exe                  6272 Services                   0     13.276 K
+tasklist.exe                 10652 Console                    1     14.572 K
+
+C:\Users\sonia>WINSAT FORMAL
+
+C:\Users\sonia>
